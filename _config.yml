@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : Scot Denman
+description              : This is about me and my career.  # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,24 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              :
+Scot Denman
+
+About ME:
+I am a 15 year old student at Richland Highschool and I want to be a part of the technology and computer job.
+
+Skills:
+-HTML/CSS
+-Organizing Skills
+-Python
+
+Career Goal:
+I want to be a web designer
+
+  location         : Richland Washington
+  employer         : Richland High School
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "scotdenmanjr@outlook.com"
 
   # Academic websites
   academia         : # URL
