@@ -26,19 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              :
-Scot Denman
+  bio              : ME
 
-About ME:
-I am a 15 year old student at Richland Highschool and I want to be a part of the technology and computer job.
 
-Skills:
--HTML/CSS
--Organizing Skills
--Python
-
-Career Goal:
-I want to be a web designer
 
   location         : Richland Washington
   employer         : Richland High School
