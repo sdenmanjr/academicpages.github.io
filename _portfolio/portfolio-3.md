@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
+title: "Portfolio #3"
 
-excerpt: "This is the project that I did in MR. Griffins class"
+excerpt: "We built this in class for a Final!"
 collection: portfolio
 ---
 
