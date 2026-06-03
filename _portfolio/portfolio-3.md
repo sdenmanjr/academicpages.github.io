@@ -1,7 +1,7 @@
 ---
 title: "Portfolio #3"
 
-excerpt: "We built this in class for a Final!"
+excerpt: "We built this in class for a Final! 1. This project was making a network cord. 2. I used cable and cable clippers. 3. I learned how to make a cable. 4. I solved the tinyness of the cable."
 collection: portfolio
 ---
 
