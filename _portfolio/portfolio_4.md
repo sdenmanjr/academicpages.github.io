@@ -1,10 +1,10 @@
 ---
 title: "Portfolio #3"
 
-excerpt: "We built this in class for a Final! <img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/da10fe7e-bcff-4907-9de1-c526eb2dac27" />"
+excerpt: "URL= https://docs.google.com/document/d/1epXi-qzBfCGwFRLYyLiXj2ngyEfseIyyJ_I_CngadVE/edit?pli=1&tab=t.0#heading=h.5x0d5h95i329"
 collection: portfolio
 ---
 
 
 
-<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/da10fe7e-bcff-4907-9de1-c526eb2dac27" />
+
